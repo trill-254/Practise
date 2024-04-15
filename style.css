@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.Admin_logo{
+    width: 100px;
+    height: 100px;
+}
+.card-img-top{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+
+.Admin_image{
+    width: 100px;
+    object-fit: contain;
+}
+
+.w-70{
+    width: 70px;
+
+}
+
+
+.cart_img{
+    width: 50px;
+    height: 50px;
+}
+
+.profile_img{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    display: block;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0%;
+}
+
+body{
+    overflow: hidden;
+}
+
+.product_img{
+    width: 10%;
+    object-fit: contain;
+}
